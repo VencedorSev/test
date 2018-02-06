@@ -36,7 +36,7 @@ else if  ($mois == 2 && $bissextile == false)
 else 
 	echo "Le nombre de jours dans $annee dans le mois de $mois est 31. <br/>";
 
-echo 'Les additions sont ajoutées!';
+echo 'Les nouveaux modif!';
 
 ?>
 </html>
